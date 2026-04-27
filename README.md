@@ -7,8 +7,7 @@ Full-stack dev who loves AI, Cybersec, and building tools that don't crash.
 
 - 🎓 Double Degree @ NTU (Computer Science & Business) · Specialising in AI, Cybersecurity & Business Analytics
 - 🔭 Currently building **QueueLESS** — a real-time civic tech queue tracker for Singapore public services
-- 🤖 Ex Deep Learning Intern @ **DSO National Laboratories** (AutoEncoders, VAEs, FastAPI)
-- 📊 Ex Data Analyst Intern @ **Simple-Group** (ML pipelines, YOLO, automation)
+- 🤖 Fun fact: I've visited 20 countries in 4 months
 
 ---
 ## 🛠️ Tech Stack
@@ -51,7 +50,6 @@ CLI-based HDB BTO simulation system for flat booking and applicant assignment wo
 ---
 
 ## 📊 GitHub Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=lichthip&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lichthip&layout=compact&theme=tokyonight)
 
 ---
