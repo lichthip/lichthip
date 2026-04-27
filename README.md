@@ -31,7 +31,7 @@ Full-stack dev who loves AI, Cybersec, and building tools that don't crash.
 
 ## 🚀 Featured Projects
 
-### 🏥 [QueueLESS](https://github.com/lichthip/queueless) — Real-Time Public Service Queue Tracker
+### 🏥 [QueueLESS](https://github.com/lichthip/queueless-sg) — Real-Time Public Service Queue Tracker
 > TypeScript · Next.js · Socket.IO · SQLite · JWT Auth
 
 Live queue wait times across Singapore public service centres (polyclinics, ICA, HDB, CPF, CDC).  
