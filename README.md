@@ -22,6 +22,9 @@ Full-stack dev who loves AI, Cybersec, and building tools that don't crash.
 ### Web & Backend
 [![My Skills](https://skillicons.dev/icons?i=nextjs,react,nodejs,fastapi,streamlit)](https://skillicons.dev)
 
+### Cybersecurity
+[![Cybersec](https://skillicons.dev/icons?i=kali,bash,linux)](https://skillicons.dev)
+
 ### Databases & Tools
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,sqlite,git,linux,vscode)](https://skillicons.dev)
 
@@ -48,12 +51,11 @@ CLI-based HDB BTO simulation system for flat booking and applicant assignment wo
 ---
 
 ## 📊 GitHub Stats
-
-![lichthip's GitHub stats](https://github-readme-stats.vercel.app/api?username=lichthip&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=lichthip&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lichthip&layout=compact&theme=tokyonight)
 
 ---
 
 ## 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ong-rie-ian)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/ong-rie-ian)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/lichthip)
